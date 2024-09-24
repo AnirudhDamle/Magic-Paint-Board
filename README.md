@@ -1,0 +1,1 @@
+This magic paint board application is created using OpenCV module and python programming language which is an apex machine learning tool to create an application like this. Given the real time webcam data, this paint-like python application uses OpenCV library to track an object-of-interest (hands in this case) and allows the user to draw by moving.
